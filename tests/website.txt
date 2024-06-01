@@ -1,0 +1,62 @@
+By the end of the year more than a billion people around the world will experience a different Google search.
+
+New generative AI features will give users more complete and direct answers, offering a conversational overview powered by AI technology.
+
+The transition marks an overhaul of Google’s core search product. And since many people experience the internet through Google, these changes amount to a remaking of how millions use the web and the billions of dollars companies make from them.
+
+Google’s transition into an AI-powered answer engine is a bulwark against an emergent AI threat.
+
+It’s also a strategic gamble: to disrupt the lucrative search ecosystem that Google erected will pay out by making room for an AI-inflected new world order.
+
+“There are still more questions than answers as to how Google's search ad revenues will fare with the introduction of AI Overviews,” said Evelyn Mitchell-Wolf, a senior analyst at eMarketer.
+
+But OpenAI and Big Tech rivals are surging ahead. They are deploying new AI services as forays against Mountain View’s search empire. For Google to stand by while others push forward poses its own risks.
+
+While Google's AI initiatives are designed to improve how internet queries work, many sites that rely upon traditional search results could suffer under a new paradigm. So could Google’s ad-supported search business, the heart of its money-making operation.
+
+That Google has cemented itself as an everyday verb, the dominant way of tapping into information on the web, speaks to its enduring power as an all-encompassing gatekeeper.
+
+More than two-thirds of the company's total yearly revenue comes from online advertising. And the search business is a huge part of that. Google commands more than 90% of the market, dwarfing the 4% claimed by rival Microsoft's (MSFT) Bing, according to data from Statcounter.
+
+In ways both obvious and subtle, if something isn’t discoverable through Google, it may as well not exist. Google claims default status across browsers and devices. And for most people on the internet, Google search is the path of least resistance; there’s too much friction to search for something somewhere else.
+
+That’s what makes Google’s shift to AI-powered search so significant. “The average consumer wasn't going to adapt their search behaviors to generative AI until Google rolled it out,” Mitchell-Wolf said.
+
+Against criticisms that Google’s AI push could cannibalize the existing business, executives have likened AI initiatives to other technology shifts that led to growth and new formats and engagement for advertisers. Search, in Google’s view, is more than just a list of blue links, and people turn to the service with their questions, from quick checks to profound explorations.
+
+“We have a deep understanding of information needs, and a strong technological foundation, and we continue to rethink what Search can be to serve users in new ways,” Google said in a statement.
+
+The company is relentlessly data-driven, so it’s likely that internal testing shows that AI overview summarizations lead to different kinds of click-throughs and activity, not necessarily overall less web usage, said John Wihbey, professor of media and technology at Northeastern University.
+
+Early findings that Google has shared publicly suggest AI Overviews can boost engagement.
+
+At the Google Marketing Live event on Tuesday, the company said that the links included in AI Overviews get more clicks than if the page had appeared as a traditional web listing for that query. Google also said that people who use AI Overviews use Search more and are more satisfied with their results.
+
+At least for now, AI Overviews offer a spruced-up version of search advertising.
+
+Echoing Google’s earlier move to place ads at the top of search results, selling prime digital real estate, the company announced on Tuesday that it will begin placing ads in a section labeled “sponsored” within the AI Overview.
+
+Rand Fishkin, the CEO of SparkToro, an audience research software company, said Google likely believes two things to be true: that they reduce the risk of disruption or competition from other AI-powered answer engines by implementing their own; and they view the risks to their core, paid advertising business as relatively light, or even nonexistent.
+
+It could be that AI Overview features don’t impact paid search volume negatively, perhaps because they rarely interfere with the average number of clicks on paid results, he said. Or they have a positive effect on the average number of searches that people engage in, negating any drop in ad clicks.
+
+In a less flattering light, Google’s AI efforts resemble a desperate scramble.
+
+Scott Jenson, a former Google employee who left the company last month, said the AI projects he was working on “were poorly motivated and driven by this panic that as long as it had ‘AI’ in it, it would be great.” In a post on LinkedIn earlier this week, he said the company’s shortsighted approach wasn’t fueled by user needs, but by “a stone cold panic that they are getting left behind.”
+
+But what some critics view as a clumsy, reactionary posture, others describe as an urgent defense.
+
+If AI models are the next platform, akin to the transition to mobile phones and apps, Google can't afford to miss out.
+
+Another way to think about Google’s approach is to recall the early days of social media and other burgeoning but now established tech platforms. Their sales pitch to the market was based on growth. At least for a time, amassing users and staking out territory were more important than making money.
+
+“Any time a consumer opts for another search destination, that's a missed opportunity for Google,” said Mitchell-Wolf. “If it's left behind in the AI-generated search race and consumers end up preferring AI-led search experiences, there will be fewer queries for it to monetize. How monetization will happen is secondary to whether it can happen at all."
+
+Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on Twitter @hshaban.
+
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+
+Read the latest financial and business news from Yahoo Finance
+
+Sign in to create a watchlist
+
