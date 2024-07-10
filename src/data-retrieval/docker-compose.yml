@@ -1,0 +1,40 @@
+version: '3.11'
+
+services:
+  scraper:
+    build:
+      context: ./yahoo
+    env_file:
+      - ./yahoo/.env
+    volumes:
+      - data-retrieval_shared_volume:/shared
+    restart: on-failure
+    command: >
+      sh -c "
+      python yahoo_scraper.py && 
+      touch /shared/scraper_done.txt && 
+      while true; do 
+        sleep 30; 
+      done
+      "
+    healthcheck:
+      test: ["CMD", "test", "-f", "/shared/scraper_done.txt"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  uploader:
+    build:
+      context: ./uploader
+    env_file:
+      - ./uploader/.env
+    volumes:
+      - data-retrieval_shared_volume:/shared
+    restart: on-failure
+    depends_on:
+      scraper:
+        condition: service_healthy
+
+volumes:
+  data-retrieval_shared_volume:
+    external: true
