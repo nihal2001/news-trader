@@ -1,1 +1,1 @@
-*.env
+src/data-retrieval/uploader/.env
